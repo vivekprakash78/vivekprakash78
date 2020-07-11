@@ -2,7 +2,7 @@
 - I’m currently working on ASP.NET MVC framework
 - I have worked on different Azure technologies including but not limited to Function apps, Data factory, DataBricks, Logic apps, Service Bus and on other Business intelligence techs like Integration services, Analysis services, SQL Server, Power BI  
 - In the past I have developed an Android app check that out [Bon Voyage](https://play.google.com/store/apps/details?id=com.quadrivium.devs.bonvoyage&hl=en)
-- I have as well worked on PHP with MySQL 😐, I know I know I am sorry but I was a naive little boy back then
+- I have as well worked on PHP with MySQL 😐, I know I know I have sinned, but I was a naive little boy back then
 - I’m currently try to amend that mistake by learning JS based frameworks like any other normal person 
 - Drop a mail at [vivekprakash78@gmail.com](mailto:vivekprakash78@gmail.com) to reach out to me
 

@@ -16,7 +16,7 @@
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=vivekprakash78&include_all_commits=true&count_private=true&show_icons=true&line_height=28&theme=radical" alt="Vivek Prakash's Github Stats">
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vivekprakash78&layout=compact&theme=radical&langs_count=10" alt="Vivek Prakash's Top Language">
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vivekprakash78&layout=compact&langs_count=6&theme=radical" alt="Vivek Prakash's Top Language">
 
 <br/>
 <br/>
